@@ -1,30 +1,26 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace BilletLibrary
 {
-    public class Bil
+    public class MC
     {
         public string Nummerplade { get; set; }
-
         public DateTime Dato { get; set; }
 
-        public Bil()
+        public MC()
         {
             
         }
 
-        public Bil(string nummerplade, DateTime dato)
-        {
-            Nummerplade = nummerplade;
-            Dato = dato;
-        }
         /// <summary>
         /// Returnere prisen på en overkørsel
         /// </summary>
         /// <returns></returns>
         public decimal Pris()
         {
-            return 240;
+            return 125;
         }
         /// <summary>
         /// Retunerer køretøjstypen
@@ -32,7 +28,7 @@ namespace BilletLibrary
         /// <returns></returns>
         public string Køretøj()
         {
-            return "Bil";
+            return "MC";
         }
     }
 }
