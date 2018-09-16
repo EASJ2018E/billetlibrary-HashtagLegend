@@ -1,0 +1,17 @@
+D:\source\BilletLibrary\billetLibrary.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\source\BilletLibrary\billetLibrary.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\source\BilletLibrary\billetLibrary.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\source\BilletLibrary\billetLibrary.Tests\bin\Debug\netcoreapp2.0\billetLibrary.Tests.deps.json
+D:\source\BilletLibrary\billetLibrary.Tests\bin\Debug\netcoreapp2.0\billetLibrary.Tests.runtimeconfig.json
+D:\source\BilletLibrary\billetLibrary.Tests\bin\Debug\netcoreapp2.0\billetLibrary.Tests.runtimeconfig.dev.json
+D:\source\BilletLibrary\billetLibrary.Tests\bin\Debug\netcoreapp2.0\billetLibrary.Tests.dll
+D:\source\BilletLibrary\billetLibrary.Tests\bin\Debug\netcoreapp2.0\billetLibrary.Tests.pdb
+D:\source\BilletLibrary\billetLibrary.Tests\bin\Debug\netcoreapp2.0\BilletLibrary.dll
+D:\source\BilletLibrary\billetLibrary.Tests\bin\Debug\netcoreapp2.0\BilletLibrary.pdb
+D:\source\BilletLibrary\billetLibrary.Tests\obj\Debug\netcoreapp2.0\billetLibrary.Tests.csprojAssemblyReference.cache
+D:\source\BilletLibrary\billetLibrary.Tests\obj\Debug\netcoreapp2.0\billetLibrary.Tests.csproj.CoreCompileInputs.cache
+D:\source\BilletLibrary\billetLibrary.Tests\obj\Debug\netcoreapp2.0\billetLibrary.Tests.AssemblyInfoInputs.cache
+D:\source\BilletLibrary\billetLibrary.Tests\obj\Debug\netcoreapp2.0\billetLibrary.Tests.AssemblyInfo.cs
+D:\source\BilletLibrary\billetLibrary.Tests\obj\Debug\netcoreapp2.0\billetLibrary.Tests.csproj.CopyComplete
+D:\source\BilletLibrary\billetLibrary.Tests\obj\Debug\netcoreapp2.0\billetLibrary.Tests.dll
+D:\source\BilletLibrary\billetLibrary.Tests\obj\Debug\netcoreapp2.0\billetLibrary.Tests.pdb
