@@ -1,3 +1,4 @@
+using System;
 using System.Text.RegularExpressions;
 using BilletLibrary;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
@@ -7,8 +8,8 @@ namespace billetLibrary.Tests
     [TestClass]
     public class UnitTest1
     {
-        Bil b = new Bil();
-        MC m = new MC();
+        Bil b = new Bil("2244" , DateTime.Now);
+        MC m = new MC("3355", DateTime.Now);
 
         [TestMethod]
         public void TestPris()
@@ -19,7 +20,7 @@ namespace billetLibrary.Tests
         [TestMethod]
         public void TestKøretøj()
         {
-            Assert.AreEqual("Bil", b.Køretøj());
+            Assert.AreEqual("Bil", b.Køretøjstype());
         }
 
         [TestMethod]
@@ -31,7 +32,7 @@ namespace billetLibrary.Tests
         [TestMethod]
         public void TestKøretøjMC()
         {
-            Assert.AreEqual("MC", m.Køretøj());
+            Assert.AreEqual("MC", m.Køretøjstype());
         }
     }
 }
