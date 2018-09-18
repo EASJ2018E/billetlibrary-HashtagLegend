@@ -8,6 +8,7 @@ namespace BilletLibrary
     {
         public MC(string nummerplade, DateTime dato) : base(nummerplade, dato)
         {
+
         }
 
         /// <summary>

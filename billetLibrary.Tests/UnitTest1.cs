@@ -8,8 +8,8 @@ namespace billetLibrary.Tests
     [TestClass]
     public class UnitTest1
     {
-        Bil b = new Bil("2244" , DateTime.Now);
-        MC m = new MC("3355", DateTime.Now);
+        Bil b = new Bil("2222111" , DateTime.Now);
+        MC m = new MC("3355222", DateTime.Now);
 
         [TestMethod]
         public void TestPris()
@@ -30,9 +30,20 @@ namespace billetLibrary.Tests
         }
 
         [TestMethod]
-        public void TestKøretøjMC()
+        public void TestKøretøjstypeMc()
         {
             Assert.AreEqual("MC", m.Køretøjstype());
+        }
+
+        [TestMethod]
+        [ExpectedException(typeof(Exception))]
+        public void TestKøretøjNummerpladelængde()
+        {
+            var b = new Bil("AZ512252", DateTime.Now);
+
+            b.Nummerpladelængde();
+
+            Assert.Fail();
         }
     }
 }
