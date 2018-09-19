@@ -8,31 +8,31 @@ namespace billetLibrary.Tests
     [TestClass]
     public class UnitTest1
     {
-        Bil b = new Bil("2222111" , DateTime.Now);
-        MC m = new MC("3355222", DateTime.Now);
+        Bil bil = new Bil("2222111" , DateTime.Now);
+        MC mc = new MC("3355222", DateTime.Now);
 
         [TestMethod]
         public void TestPris()
         {
-            Assert.AreEqual(240, b.Pris());
+            Assert.AreEqual(240, bil.Pris());
         }
 
         [TestMethod]
         public void TestKøretøj()
         {
-            Assert.AreEqual("Bil", b.Køretøjstype());
+            Assert.AreEqual("Bil", bil.Køretøjstype());
         }
 
         [TestMethod]
         public void TestMCPris()
         {
-            Assert.AreEqual(125, m.Pris());
+            Assert.AreEqual(125, mc.Pris());
         }
 
         [TestMethod]
         public void TestKøretøjstypeMc()
         {
-            Assert.AreEqual("MC", m.Køretøjstype());
+            Assert.AreEqual("MC", mc.Køretøjstype());
         }
 
         [TestMethod]
