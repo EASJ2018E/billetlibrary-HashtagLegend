@@ -7,3 +7,12 @@ D:\source\BilletLibrary\BilletLibrary\obj\Debug\netcoreapp2.0\BilletLibrary.Asse
 D:\source\BilletLibrary\BilletLibrary\obj\Debug\netcoreapp2.0\BilletLibrary.AssemblyInfo.cs
 D:\source\BilletLibrary\BilletLibrary\obj\Debug\netcoreapp2.0\BilletLibrary.dll
 D:\source\BilletLibrary\BilletLibrary\obj\Debug\netcoreapp2.0\BilletLibrary.pdb
+C:\Users\Zaki\source\billetlibrary-HashtagLegend\BilletLibrary\bin\Debug\netcoreapp2.0\BilletLibrary.deps.json
+C:\Users\Zaki\source\billetlibrary-HashtagLegend\BilletLibrary\bin\Debug\netcoreapp2.0\BilletLibrary.dll
+C:\Users\Zaki\source\billetlibrary-HashtagLegend\BilletLibrary\bin\Debug\netcoreapp2.0\BilletLibrary.pdb
+C:\Users\Zaki\source\billetlibrary-HashtagLegend\BilletLibrary\obj\Debug\netcoreapp2.0\BilletLibrary.csprojAssemblyReference.cache
+C:\Users\Zaki\source\billetlibrary-HashtagLegend\BilletLibrary\obj\Debug\netcoreapp2.0\BilletLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Zaki\source\billetlibrary-HashtagLegend\BilletLibrary\obj\Debug\netcoreapp2.0\BilletLibrary.AssemblyInfoInputs.cache
+C:\Users\Zaki\source\billetlibrary-HashtagLegend\BilletLibrary\obj\Debug\netcoreapp2.0\BilletLibrary.AssemblyInfo.cs
+C:\Users\Zaki\source\billetlibrary-HashtagLegend\BilletLibrary\obj\Debug\netcoreapp2.0\BilletLibrary.dll
+C:\Users\Zaki\source\billetlibrary-HashtagLegend\BilletLibrary\obj\Debug\netcoreapp2.0\BilletLibrary.pdb
